@@ -21,3 +21,4 @@ else if (mathematicalSign == divide){
     alert(num1 / num2);
 }
 else {"not a number"}
+ 
