@@ -10,3 +10,6 @@ var captilizeSentence = words.join(' ')
     
     document.write(captilizeSentence);
     console.log(captilizeSentence)
+
+
+    
