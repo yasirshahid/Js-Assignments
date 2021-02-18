@@ -9,4 +9,4 @@ var obtainedMarks = (course1 + course2 + course3 + course4 + course5);
 
 var perCal = (obtainedMarks * 100 / totalMarks);
 
-alert("Your percentage is" + " " + perCal);
+alert("Your percentage is" + " " + perCal + "%");
